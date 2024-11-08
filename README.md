@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 📧 shjeong19943@gmail.com<br>
 </div>
 
-<br><br>
-
 # 📚Skills
 <br><br><br>
 <div align=center>🛠 Backend</div><br>
