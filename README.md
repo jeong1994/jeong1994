@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeong1994&count_bg=%23F6E7CD&title_bg=%23EBD6A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-![jeong1994 GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong1994&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994)](https://github.com/jeong1994/jeong1994)
--->
+<br>
 
 <div style="display: flex; justify-content: space-around;" align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=jeong1994&show_icons=true">
