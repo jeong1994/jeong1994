@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 ## 👨‍🎓Profile
 👦 정승환.. <br>
 🎂 1994.10.21 <br>
-📞 010-6844-4010 <br><br>
+📞 010-6844-4010 <br>
+📧 shjeong19943@gmail.com<br>
 
 ## 🧐ABOUT ME
 개발에 대한 궁금증으로 유튜브를 보며 <br>
