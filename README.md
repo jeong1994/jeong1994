@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994)](https://github.com/jeong1994/jeong1994)
 -->
 
-<div>
+<div style="display: flex; justify-content: space-around;">
 <img src="https://github-readme-stats.vercel.app/api?username=jeong1994&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994&layout=compact"><br><br>
 </div>
