@@ -30,17 +30,21 @@ Here are some ideas to get you started:
 </div>
 
 ## 👨‍🎓Profile
+<div align=center>
 👦 정승환.. <br>
 🎂 1994.10.21 <br>
 📞 010-6844-4010 <br>
 📧 shjeong19943@gmail.com<br>
+</div>
 
+<div align=center>
 ## 🧐About Me
 개발에 대한 궁금증으로 유튜브를 보며 <br>
 콘솔창에 "Hello World"를 출력하며 개발자로서의 첫 발자국을 내딛었습니다.<br>
 오로지 소비의 수단이었던 노트북을 생산의 수단으로서 활용하는 재미를 느껴<br>
 전문 개발자가 되기 위해 국비지원 프로그램을 참여하게 되었고<br>
 "사용자에게는 편리한 서비스, 동료에게는 가독성 높은 코드"를 지키는 것을 목표로 노력하고 있습니다.
+</div>
 
 <br><br>
 
