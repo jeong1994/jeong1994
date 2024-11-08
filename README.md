@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=shjeong1994%20Github!&fontSize=90" />	
+</div>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&text=🐤🐥🐣&fontAlign=70)
 ## 안녕하세요. 풀스택 개발자 정승환입니다. 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeong1994&count_bg=%23F6E7CD&title_bg=%23EBD6A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -80,7 +82,7 @@ Here are some ideas to get you started:
 
 
 <div>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>🎨Portfolio</p>
 </div>
 <div>
   	<a href="https://smoggy-butterkase-4bf.notion.site/7618def3330946ceab1c8f649e690aa1?pvs=4">
@@ -89,7 +91,6 @@ Here are some ideas to get you started:
 	<a href="https://shjeong1994.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<br>
   	<a href="shjeong19943@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
