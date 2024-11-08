@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <div align=center>🛠 Backend</div>
 <div align=center>
 ![JAVA](https://img.shields.io/badge/JAVA-5DACDF.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
+	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-004466.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-B4CA65.svg?&style=for-the-badge&logo=JSP&logoColor=white)
