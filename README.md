@@ -77,15 +77,18 @@ Here are some ideas to get you started:
 ![notion](https://img.shields.io/badge/notion-466BB0.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-007808.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![ERD-CLOUD](https://img.shields.io/badge/ERDCLOUD-6965DB.svg?&style=for-the-badge&logo=ERD-CLOUD&logoColor=white)
+<br>
 ![Draw-io](https://img.shields.io/badge/Drawio-D4911E.svg?&style=for-the-badge&logo=Draw-io&logoColor=white)
 ![Visula Studio Code](https://img.shields.io/badge/VisulaStudioCode-3B66BC.svg?&style=for-the-badge&logo=VisulaStudioCode&logoColor=white)
 ![intelliJ](https://img.shields.io/badge/intelliJ-0D597F.svg?&style=for-the-badge&logo=intelliJ&logoColor=white)
 ![sourcetree](https://img.shields.io/badge/sourcetree-F79A10.svg?&style=for-the-badge&logo=sourcetree&logoColor=white)
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat-io&logoColor=white)
+<br>
 ![zoom](https://img.shields.io/badge/zoom-5091CD.svg?&style=for-the-badge&logo=zoom-io&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-825794.svg?&style=for-the-badge&logo=discord-io&logoColor=white)
 
 </div>
+<br><br>
 
 # 🎨Portfolio
 
