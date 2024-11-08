@@ -79,6 +79,18 @@ Here are some ideas to get you started:
 ![discord](https://img.shields.io/badge/discord-825794.svg?&style=for-the-badge&logo=discord-io&logoColor=white)
 
 
-📫 Contact 📫
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:jeong199411@gmail.com)
+<div>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div>
+  	<a href="https://smoggy-butterkase-4bf.notion.site/7618def3330946ceab1c8f649e690aa1?pvs=4">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+	<a href="https://shjeong1994.tistory.com/">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<br>
+  	<a href="shjeong19943@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+</div>
