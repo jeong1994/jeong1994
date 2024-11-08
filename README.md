@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 ![zoom](https://img.shields.io/badge/zoom-5091CD.svg?&style=for-the-badge&logo=zoom-io&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-825794.svg?&style=for-the-badge&logo=discord-io&logoColor=white)
-
+<img src="https://img.shields.io/badge/eclipseide-#2C2255?style=flat-square&logo=eclipse-io&logoColor=white"/></a>
 </div>
 <br><br>
 
