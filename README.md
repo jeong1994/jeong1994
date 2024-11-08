@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 	
 ![JAVA](https://img.shields.io/badge/JAVA-5DACDF.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-<!-- ![node.js](https://img.shields.io/badge/node.js-004466.svg?&style=for-the-badge&logo=node.js&logoColor=white) -->
 ![JSP](https://img.shields.io/badge/JSP-B4CA65.svg?&style=for-the-badge&logo=JSP&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<!-- ![node.js](https://img.shields.io/badge/node.js-004466.svg?&style=for-the-badge&logo=node.js&logoColor=white) -->
 
 </div>
 
@@ -81,9 +81,10 @@ Here are some ideas to get you started:
 ![Draw-io](https://img.shields.io/badge/Drawio-D4911E.svg?&style=for-the-badge&logo=Draw-io&logoColor=white)
 ![Visula Studio Code](https://img.shields.io/badge/VisulaStudioCode-3B66BC.svg?&style=for-the-badge&logo=VisulaStudioCode&logoColor=white)
 ![intelliJ](https://img.shields.io/badge/intelliJ-0D597F.svg?&style=for-the-badge&logo=intelliJ&logoColor=white)
-<!-- ![sourcetree](https://img.shields.io/badge/sourcetree-F79A10.svg?&style=for-the-badge&logo=sourcetree&logoColor=white) -->
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat-io&logoColor=white)
+<!-- ![sourcetree](https://img.shields.io/badge/sourcetree-F79A10.svg?&style=for-the-badge&logo=sourcetree&logoColor=white) -->
 <br>
+
 ![zoom](https://img.shields.io/badge/zoom-5091CD.svg?&style=for-the-badge&logo=zoom-io&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-825794.svg?&style=for-the-badge&logo=discord-io&logoColor=white)
 
