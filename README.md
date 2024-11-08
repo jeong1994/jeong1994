@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994&layout=compact"><br><br>
 </div>
 
-## Profile
+## 👨‍🎓Profile
 👦 정승환.. <br>
 🎂 1994.10.21 <br>
-📞 010-6844-4010 <br>
+📞 010-6844-4010 <br><br>
 
 ## 🧐ABOUT ME
 개발에 대한 궁금증으로 유튜브를 보며 <br>
