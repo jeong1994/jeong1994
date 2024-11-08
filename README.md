@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 # 📚Skills
 
-<div align=center>🛠 Backend</div>
-<div align=center><br><br><br>
+<div align=center>🛠 Backend</div><br><br><br>
+<div align=center>
 	
 ![JAVA](https://img.shields.io/badge/JAVA-5DACDF.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align=center>✨Frontend</div>
+<div align=center>✨Frontend</div><br><br><br>
 <div align=center>
 	
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align=center>🗄 Database</div>
+<div align=center>🗄 Database</div><br><br><br>
 <div align=center>
 	
 ![Oracle](https://img.shields.io/badge/Oracle-77AA99.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align=center>⚙Tools</div>
+<div align=center>⚙Tools</div><br><br><br>
 <div align=center>
 	
 ![Git](https://img.shields.io/badge/Git-5C5543.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 </div>
 
-# 🎨Portfolio
+# 🎨Portfolio <br><br><br>
 
 <div align=center>
   	<a href="https://smoggy-butterkase-4bf.notion.site/7618def3330946ceab1c8f649e690aa1?pvs=4">
