@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 ![discord](https://img.shields.io/badge/discord-825794.svg?&style=for-the-badge&logo=discord-io&logoColor=white)
 
 
+#
 <div>
 	<p>🎨Portfolio</p>
 </div>
