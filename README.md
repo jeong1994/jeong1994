@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </div>
 
 
-
+<br>
 # 📚Skills
 
 <div align=center>🛠 Backend</div>
