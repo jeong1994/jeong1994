@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ![discord](https://img.shields.io/badge/discord-825794.svg?&style=for-the-badge&logo=discord-io&logoColor=white)
 
 
-#🎨Portfolio
+# 🎨Portfolio
 
 <div>
   	<a href="https://smoggy-butterkase-4bf.notion.site/7618def3330946ceab1c8f649e690aa1?pvs=4">
