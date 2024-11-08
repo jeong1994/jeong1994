@@ -38,35 +38,41 @@ Here are some ideas to get you started:
 
 <div align=center>🛠 Backend</div>
 <div align=center>
+	
 ![JAVA](https://img.shields.io/badge/JAVA-5DACDF.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
-	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-004466.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-B4CA65.svg?&style=for-the-badge&logo=JSP&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 </div>
 
 
 <div align=center>✨Frontend</div>
 <div align=center>
+	
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-4B4B77.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-004027.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+
 </div>
 
 
 <div align=center>🗄 Database</div>
 <div align=center>
+	
 ![Oracle](https://img.shields.io/badge/Oracle-77AA99.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-4479A1.svg?&style=for-the-badge&logo=MyBatis&logoColor=white)
 ![dbeaver](https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white)
+
 </div>
 
 
 <div align=center>⚙Tools</div>
 <div align=center>
+	
 ![Git](https://img.shields.io/badge/Git-5C5543.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![github](https://img.shields.io/badge/github-FB5BC5.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![json](https://img.shields.io/badge/json-1DB954.svg?&style=for-the-badge&logo=json&logoColor=white)
@@ -80,6 +86,7 @@ Here are some ideas to get you started:
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=for-the-badge&logo=apachetomcat-io&logoColor=white)
 ![zoom](https://img.shields.io/badge/zoom-5091CD.svg?&style=for-the-badge&logo=zoom-io&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-825794.svg?&style=for-the-badge&logo=discord-io&logoColor=white)
+
 </div>
 
 # 🎨Portfolio
