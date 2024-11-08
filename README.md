@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 📧 shjeong19943@gmail.com<br>
 </div>
 
-<div align=center>
+
 ## 🧐About Me
+<div align=center>
 개발에 대한 궁금증으로 유튜브를 보며 <br>
 콘솔창에 "Hello World"를 출력하며 개발자로서의 첫 발자국을 내딛었습니다.<br>
 오로지 소비의 수단이었던 노트북을 생산의 수단으로서 활용하는 재미를 느껴<br>
