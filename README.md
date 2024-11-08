@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 ![jeong1994 GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong1994&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994)](https://github.com/jeong1994/jeong1994)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=jeong1994&show_icons=true">
 
 
 
