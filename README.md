@@ -109,7 +109,4 @@ Here are some ideas to get you started:
 	<a href="https://shjeong1994.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-  	<a href="shjeong19943@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
 </div>
