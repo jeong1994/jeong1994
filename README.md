@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994&layout=compact"><br><br> -->
 
 ![jeong1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong1994&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/jeong1994/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994&layout=compact&theme=ocean_dark&langs_count=12)]
  
 </div>
 
