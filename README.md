@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=jeong1994&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994&layout=compact"><br><br> -->
 
-![jeong1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong1994&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/jeong1994/github-readme-stats)
+![jeong1994 GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong1994&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong1994&layout=compact&theme=gotham)](https://github.com/jeong1994/jeong1994)
  
 </div>
 
