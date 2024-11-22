@@ -99,6 +99,12 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 
+# 🖥️프로젝트
+
+## DoctorTreat
+
+## 맛있는 재활용
+
 # 🎨Portfolio
 
 <br>
@@ -106,7 +112,7 @@ Here are some ideas to get you started:
   	<a href="https://smoggy-butterkase-4bf.notion.site/7618def3330946ceab1c8f649e690aa1?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
-	<a href="https://shjeong1994.tistory.com/">
+	<!-- <a href="https://shjeong1994.tistory.com/">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
+	</a> -->
 </div>
