@@ -101,9 +101,9 @@ Here are some ideas to get you started:
 
 # 🖥️프로젝트
 
-<div align=center>DoctorTreat</div>
-<br>
 <div align=center>맛있는 재활용</div>
+<br>
+<div align=center>DoctorTreat</div>
 <br>
 
 # 🎨Portfolio
