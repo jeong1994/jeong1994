@@ -101,9 +101,18 @@ Here are some ideas to get you started:
 
 # 🖥️프로젝트
 
-<div align=center>맛있는 재활용</div>
+<div align=center>
+
+![dr로고](https://github.com/user-attachments/assets/7de09149-25b2-4439-af25-65b873392b32)
+
+</div>
 <br>
-<div align=center>DoctorTreat</div>
+
+<div align=center>
+	
+![닥터트리로고](https://github.com/user-attachments/assets/405e4c9a-8b08-4ac7-b9f0-d6a46114c2ce) 
+
+ </div>
 <br>
 
 # 🎨Portfolio
