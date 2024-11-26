@@ -119,6 +119,7 @@ Here are some ideas to get you started:
 	
 ![닥터트리로고](https://github.com/user-attachments/assets/405e4c9a-8b08-4ac7-b9f0-d6a46114c2ce) 
 
+notion 및 git hub작성중..
  </div>
 <br>
 
