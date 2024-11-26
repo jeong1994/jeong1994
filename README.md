@@ -110,8 +110,8 @@ Here are some ideas to get you started:
 
 ![dr로고](https://github.com/user-attachments/assets/7de09149-25b2-4439-af25-65b873392b32)
 
-<a href="https://smoggy-butterkase-4bf.notion.site/Spring-Boot_-fff73fb47f3081eca7f4ff2d88cae411?pvs=4">notion 바로가기</a><br>
-<a href="https://github.com/jeong1994/DR_backend.git">git hub 바로가기</a>
+<a href="https://smoggy-butterkase-4bf.notion.site/Spring-Boot_-fff73fb47f3081eca7f4ff2d88cae411?pvs=4">맛있는 재활용 notion 바로가기</a><br>
+<a href="https://github.com/jeong1994/DR_backend.git">맛있는 재활용 git hub 바로가기</a>
 </div>
 <br>
 
