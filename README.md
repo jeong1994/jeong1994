@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 🎂 1994.10.21 <br>
 📞 010-6844-4010 <br>
 📧 shjeong19943@gmail.com<br>
-
+<br>
 <a href="https://smoggy-butterkase-4bf.notion.site/7618def3330946ceab1c8f649e690aa1?pvs=4">
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-</a> 노션 바로가기 <br>
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /> 노션 바로가기
+</a><br>
 
 </div>
 
