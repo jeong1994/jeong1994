@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 안녕하세요. 백엔드 개발자 정승환입니다. 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeong1994&count_bg=%23F6E7CD&title_bg=%23EBD6A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeong1994&count_bg=%23F6E7CD&title_bg=%23EBD6A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <br>
 
@@ -118,12 +118,12 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<div align=center>
+<!-- <div align=center>
 	
 ![닥터트리로고](https://github.com/user-attachments/assets/405e4c9a-8b08-4ac7-b9f0-d6a46114c2ce) 
 
 닥터트리 notion 및 git hub작성중..
- </div>
+ </div> -->
 <br>
 
 <!--
