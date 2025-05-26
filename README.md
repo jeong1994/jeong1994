@@ -107,6 +107,7 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 
+<!-- 
 # 🖥️프로젝트
 
 <div align=center>
@@ -117,14 +118,17 @@ Here are some ideas to get you started:
 <a href="https://github.com/jeong1994/DR_backend.git" target="_blank">맛있는 재활용 git hub 바로가기</a>
 </div>
 <br>
+-->
 
-<!-- <div align=center>
+<!--
+<div align=center>
 	
 ![닥터트리로고](https://github.com/user-attachments/assets/405e4c9a-8b08-4ac7-b9f0-d6a46114c2ce) 
 
 닥터트리 notion 및 git hub작성중..
- </div> -->
+ </div> 
 <br>
+-->
 
 <!--
 # 🎨Portfolio
